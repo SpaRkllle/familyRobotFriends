@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/familyrobotfriends/static/css/main.c481b04d.css",
-    "main.js": "/familyrobotfriends/static/js/main.bbab49b4.js",
-    "static/js/453.692b85b0.chunk.js": "/familyrobotfriends/static/js/453.692b85b0.chunk.js",
-    "static/media/Mulian-OGMod.otf": "/familyrobotfriends/static/media/Mulian-OGMod.7f84c98732e88486c144.otf",
-    "index.html": "/familyrobotfriends/index.html",
-    "main.c481b04d.css.map": "/familyrobotfriends/static/css/main.c481b04d.css.map",
-    "main.bbab49b4.js.map": "/familyrobotfriends/static/js/main.bbab49b4.js.map",
-    "453.692b85b0.chunk.js.map": "/familyrobotfriends/static/js/453.692b85b0.chunk.js.map"
+    "main.css": "/familyRobotFriends/static/css/main.3a80257e.css",
+    "main.js": "/familyRobotFriends/static/js/main.67fe2eb7.js",
+    "static/js/453.692b85b0.chunk.js": "/familyRobotFriends/static/js/453.692b85b0.chunk.js",
+    "static/media/Mulian-OGMod.otf": "/familyRobotFriends/static/media/Mulian-OGMod.7f84c98732e88486c144.otf",
+    "index.html": "/familyRobotFriends/index.html",
+    "main.3a80257e.css.map": "/familyRobotFriends/static/css/main.3a80257e.css.map",
+    "main.67fe2eb7.js.map": "/familyRobotFriends/static/js/main.67fe2eb7.js.map",
+    "453.692b85b0.chunk.js.map": "/familyRobotFriends/static/js/453.692b85b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c481b04d.css",
-    "static/js/main.bbab49b4.js"
+    "static/css/main.3a80257e.css",
+    "static/js/main.67fe2eb7.js"
   ]
 }
