@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpaRkllle/familyrobotfriends/static/css/main.e435cdee.css",
+    "main.js": "/SpaRkllle/familyrobotfriends/static/js/main.414ab267.js",
+    "static/js/453.692b85b0.chunk.js": "/SpaRkllle/familyrobotfriends/static/js/453.692b85b0.chunk.js",
+    "static/media/Mulian-OGMod.otf": "/SpaRkllle/familyrobotfriends/static/media/Mulian-OGMod.7f84c98732e88486c144.otf",
+    "index.html": "/SpaRkllle/familyrobotfriends/index.html",
+    "main.e435cdee.css.map": "/SpaRkllle/familyrobotfriends/static/css/main.e435cdee.css.map",
+    "main.414ab267.js.map": "/SpaRkllle/familyrobotfriends/static/js/main.414ab267.js.map",
+    "453.692b85b0.chunk.js.map": "/SpaRkllle/familyrobotfriends/static/js/453.692b85b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e435cdee.css",
+    "static/js/main.414ab267.js"
+  ]
+}
