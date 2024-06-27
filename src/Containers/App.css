@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: Mulian-OGMod;
+    src: url("Mulian-OGMod.otf");
+}
+
+#salam {
+    font-family: Mulian-OGMod;
+}
+p {
+    font-family: swash;
+}
